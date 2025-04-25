@@ -4,11 +4,11 @@ This is a solution to the [Frontend Mentor blog preview card challenge](https://
 
 ## 📸 Original Image
 
-![Blog preview card](./Original_Image)
+![Blog preview card](./Original_Image.png)
 
 ## 📸 Cloned Image
 
-![Blog preview card](./Cloned_image)
+![Blog preview card](./Cloned_image.png)
 
 
 ## 🛠️ Built With
