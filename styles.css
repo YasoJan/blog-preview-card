@@ -1,0 +1,100 @@
+body{
+	background-color: #F5D04F;
+	font-family: sans-serif;
+}
+
+.white-card-outline{
+	position: absolute;
+	background-color: white;
+	height: 60vh;
+	width: 23vw;
+	margin-top: 15vh;
+	border: .12vw solid black;
+	border-radius: 2rem;
+	padding: 2rem;
+	z-index: 2;
+	left: 50%;
+	transform: translateX(-50%)
+
+
+}
+.shadow{
+
+	position: absolute;
+	z-index: 1;
+	background-color: black;
+	height: 60vh;
+	width: 23vw;
+	margin: 0 auto;
+	margin-top: 16vh;
+	margin-left: 1vh;
+	margin-right: 1px;
+	border: .12vw solid black;
+	border-radius: 2rem;
+	padding: 2rem;
+	left: 50%;
+	transform: translateX(-50%)
+
+
+}
+
+
+.learning{
+	margin-top: 2vh;
+	background-color: #F1D24C;
+	width: 6vw;
+	height: 4vh;
+	margin-bottom: 2vh;
+	text-align: center;
+	border-radius: .35rem;
+}
+
+.button-text{
+	font-weight: 700;
+	padding-top: .5rem;
+	font-size: .9rem;
+
+}
+
+.profile-pic-container
+{
+	position: absolute;
+	z-index: 1;
+	height: 25vh;
+	width: 3vw;
+	margin: 0 auto;
+	left: 7%;
+	margin-top: 2vh;
+	border-radius: 5rem;
+}
+
+.profile-pic{
+	position: absolute;
+	z-index: 2;
+	height: 5vh;
+	width: 3vw;
+	margin: 0 auto;
+	left: 7%;
+	border-radius: 5rem;
+}
+
+footer{
+	text-align: center;
+	margin-top: 5.5vh;
+	margin-right: 10vw;
+	font-weight: 700;
+}
+
+
+.body-text{
+	color: grey;
+	line-height: 1.5rem;
+}
+
+.attribution{
+	margin-top: -1vh;
+}
+
+.top-image{
+	border-radius: .75rem;
+}
